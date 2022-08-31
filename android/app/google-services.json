@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295247803438",
+    "project_id": "shop-app-blocone",
+    "storage_bucket": "shop-app-blocone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295247803438:android:88f1783c657b1432401bbf",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295247803438-cgep3nhsqnt6054c2usric8fcql82jdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXjIp1JMTUggB-gE7Vp0W3zoWF6lTyW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295247803438-cgep3nhsqnt6054c2usric8fcql82jdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295247803438-cov2urh773aq07hd2qqmoqcd2qa3vrp8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shop.bloc.app",
+                "app_store_id": "43483"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
